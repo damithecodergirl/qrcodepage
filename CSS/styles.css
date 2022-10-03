@@ -1,0 +1,48 @@
+body, footer{
+    font-family: 'Outfit';
+    text-align: center;
+    background-color: hsl(212, 45%, 89%);
+}
+
+.attribution {
+    font-size: 11px; text-align: center;
+}
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+.qr-img{
+    margin: 150px auto 0;
+    border-radius: 15px;
+    background-color: hsl(0, 0%, 100%);
+    width: min-content;
+}
+
+.qr-code{   
+    border-radius: 10px;
+    width: 16rem;
+    margin: 15px 15px 0;
+}
+
+.qr-text1{
+    color: hsl(218, 44%, 22%);
+    font-weight: 800;
+    font-size: 20px;
+    margin: 20px 20px 0;
+}
+
+.qr-text2{
+    color: hsl(220, 15%, 55%);
+    font-weight: 400;
+    font-size: 14px;
+    padding: 0 25px 25px;
+
+}
+
+.text-attrib{
+    text-decoration: auto;
+}
+
+.text-attrib:hover{
+    color: hsl(218, 28%, 67%);
+}
